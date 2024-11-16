@@ -1,2 +1,2 @@
 # javaScript-series
-This a series of javaScript
+This is a series of javaScript
